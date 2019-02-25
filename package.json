@@ -1,0 +1,15 @@
+{
+  "name": "vivify-test",
+  "version": "1.0.0",
+  "description": "Testiranje za prijem na praksu u Vivify Ideas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Boban Jankovic",
+  "license": "ISC",
+  "dependencies": {
+    "file-system": "^2.2.2"
+  }
+}
